@@ -1,0 +1,9 @@
+.idea
+__pycache__
+ares_embedding*
+convertvec
+data
+build
+dist
+examples/config
+*.egg-info
